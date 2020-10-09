@@ -21,6 +21,14 @@ I also develop websites and native apps. My proficient languages are Javascript 
 My professional interests lie in developing Blockchain based solutions.
 I love to explore new technologies and develop solutions to problems.
 
+My recent projects -
+- [Book Green Slot](https://github.com/maasoomraj/BookGreenSlot)
+- [TeleGang](https://github.com/maasoomraj/Game)
+- [Blockchain Supply Management System](https://github.com/maasoomraj/BlockChain_SupplyChain)
+- [Shop-It](https://github.com/maasoomraj/ShopIt)
+- [Alt-Meds](https://github.com/maasoomraj/AltMeds)
+- [VoteChain](https://github.com/maasoomraj/Microsoft_2k19)
+
 Connect with me -
 - [Portfolio](https://maasoomraj.github.io/)
 - [LinkedIn](https://in.linkedin.com/in/masoom-raj-b4857517b)
