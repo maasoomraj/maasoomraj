@@ -9,7 +9,7 @@ I'm an AI Software Engineer with a solid foundation in Computer Science. Current
 - 📅 **Birthday:** 23 December 2001
 - 📍 **City:** Tokyo, Japan
 - 🎓 **Degree:** B.Tech. (Computer Science and Engineering)
-- 📧 **Email:** [masoom.tokyo@gmail.com](mailto:masoom.tokyo@gmail.com)
+- 📧 **Email:** [masoomraj.tokyo@gmail.com](mailto:masoomraj.tokyo@gmail.com)
 - 📱 **Phone:** +81 70 8936 9276
 - 🔗 **Portfolio:** [maasoomraj.github.io](https://maasoomraj.github.io/)
 
