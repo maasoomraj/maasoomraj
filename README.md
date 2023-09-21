@@ -1,27 +1,37 @@
-### Hi there 👋
+### Hello, I'm Masoom Raj! 👋
 
-<!--
-**maasoomraj/maasoomraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Software Engineer with a solid foundation in Computer Science. Currently stationed in Tokyo, I contribute to Diverta Inc., merging the vast realms of AI with multi-camera tracking systems to forge applications that resonate with real-world implications.
 
-Here are some ideas to get you started:
+#### 🚀 Quick facts:
+- 🔍 **Languages:** C/C++, JavaScript, Python, Solidity
+- 🌐 **Web Tech:** Node.js, React.js
+- 🎓 **Alma Mater:** Indian Institute of Technology Jodhpur
+- 📅 **Birthday:** 23 December 2001
+- 📍 **City:** Tokyo, Japan
+- 🎓 **Degree:** B.Tech. (Computer Science and Engineering)
+- 📧 **Email:** [masoom.tokyo@gmail.com](mailto:masoom.tokyo@gmail.com)
+- 📱 **Phone:** +81 70 8936 9276
+- 🔗 **Portfolio:** [maasoomraj.github.io](https://maasoomraj.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌟 Recent Professional Experiences:
+- **AI Engineer** at Diverta Inc, Tokyo, Japan (Oct 2021 - Present)
+  - Spearheaded a modular pipeline for multi-camera multi-person tracking using YOLOv7.
+  - Applied Kalman Filter for bounding box predictions.
+  - Enhanced gender classification accuracy through data amalgamation.
 
-I am a Pre-final year CSE Undergraduate at IIT Jodhpur.
-My personal interest is doing sports programming for which my preferable language is C++.
-I also develop websites and native apps. My proficient languages are Javascript and Python.
-My professional interests lie in developing Blockchain based solutions.
-I love to explore new technologies and develop solutions to problems.
+- **Computer Vision Engineer** at Diverta Inc, Tokyo, Japan (June 2021 - July 2021)
+  - Optimized human detection filters.
+  - Developed ML solutions to validate detection relevancy.
 
-My recent projects -
+- **Backend Developer (Internship)** at Giftiicon Solutions India Pvt. Ltd., Bangalore, IN (Nov 2020 - Jan 2021)
+  - Developed an API Gateway microservice on AWS.
+  - Integrated the Religare API.
+
+- **Backend Developer (Freelance)** at Book Green Slot, Patna, IN (July 2020 - Aug 2020)
+  - Crafted a web portal for medical appointments.
+  - Implemented token validity systems and incorporated modern web tech.
+
+#### 📦 Highlighted Projects:
 - [Book Green Slot](https://github.com/maasoomraj/BookGreenSlot)
 - [TeleGang](https://github.com/maasoomraj/Game)
 - [Blockchain Supply Management System](https://github.com/maasoomraj/BlockChain_SupplyChain)
@@ -29,9 +39,8 @@ My recent projects -
 - [Alt-Meds](https://github.com/maasoomraj/AltMeds)
 - [VoteChain](https://github.com/maasoomraj/Microsoft_2k19)
 
-Connect with me -
+#### 🌍 Connect with me:
 - [Portfolio](https://maasoomraj.github.io/)
 - [LinkedIn](https://in.linkedin.com/in/masoom-raj-b4857517b)
-- [Gmail](mailto:raj.8@iitj.ac.in)
 - [Instagram](https://www.instagram.com/maasoomraj/)
 - [Facebook](https://www.facebook.com/profile.php?id=100008575125905)
